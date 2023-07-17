@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5984be9e8b454414aa6be8dea7a67458, type: 3}
+  m_Name: Discussion1Clothes
+  m_EditorClassIdentifier: 
+  theme: Cor de roupa
+  description: Tentando decidir a cor de roupa para um evento/uniforme.
+  characters:
+  - {fileID: 11400000, guid: 3d46335af9cdcee49a807053c4bbbe7b, type: 2}
+  - {fileID: 11400000, guid: de6424c3b54a46e47bb6289151841e92, type: 2}
+  gameTiles:
+  - {fileID: 11400000, guid: ab9bd47c5274b9a4bbf246e465440f60, type: 2}
+  - {fileID: 11400000, guid: aa7bda658504d8942a00695e49f322aa, type: 2}
+  solvedTile: {fileID: 11400000, guid: a7c6e8b3cb511d048bef6094e27450e3, type: 2}
+  stepDelay: 0.867
+  colors:
+  - {r: 0.9254902, g: 0.44705883, b: 0.40392157, a: 1}
+  - {r: 0.3137255, g: 0.36078432, b: 0.65882355, a: 1}
+  scoreGoal: 30

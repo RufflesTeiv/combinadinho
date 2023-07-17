@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c4ae3c9c0818bb409c76e8128c0afbe, type: 3}
+  m_Name: Character3Blue
+  m_EditorClassIdentifier: 
+  name: Beau
+  description: 
+  neutralSprite: {fileID: 21300000, guid: 3698ee8296d66144c928a66d2ba35641, type: 3}
+  angrySprite: {fileID: 21300000, guid: ceff366cf8b16394d862635e5e47351a, type: 3}
+  angrySpeakingSprite: {fileID: 21300000, guid: c353ec21d6a76f546bd60a58b5c408eb, type: 3}
+  happySprite: {fileID: 21300000, guid: b7c03c0bf4d8be64e8e256f118fa68ca, type: 3}
+  spriteFacingLeft: 0
+  emptyBarSprite: {fileID: 21300000, guid: 27f3a9934c0a8264baabfbe917c8368e, type: 3}
+  filledBarSprite: {fileID: 21300000, guid: eb8d00f90d8b40648a9294ec94ffb2b3, type: 3}

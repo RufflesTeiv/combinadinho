@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5984be9e8b454414aa6be8dea7a67458, type: 3}
+  m_Name: Discussion5Dog
+  m_EditorClassIdentifier: 
+  theme: Fantasia do dog!!
+  description: Tentando decidir a fantasia para o dog
+  characters:
+  - {fileID: 11400000, guid: 3d46335af9cdcee49a807053c4bbbe7b, type: 2}
+  - {fileID: 11400000, guid: 6797bdbd2a969d4448b51ee4c6ed65c3, type: 2}
+  gameTiles:
+  - {fileID: 11400000, guid: fe00d899cc3f1224885dccb20561adf0, type: 2}
+  - {fileID: 11400000, guid: 20c61ceb74869294999ce55f0e1eb718, type: 2}
+  solvedTile: {fileID: 11400000, guid: b9c454a946e810c43bd40db68ba80a02, type: 2}
+  stepDelay: 0.33333
+  colors:
+  - {r: 0.3137255, g: 0.36078432, b: 0.65882355, a: 1}
+  - {r: 0.8509804, g: 0.5294118, b: 0.7372549, a: 1}
+  scoreGoal: 70

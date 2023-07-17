@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c4ae3c9c0818bb409c76e8128c0afbe, type: 3}
+  m_Name: Character0Orange
+  m_EditorClassIdentifier: 
+  name: Rubi
+  description: 
+  neutralSprite: {fileID: 21300000, guid: 4843d8c166dfa2f42abb7f09f7da1e9d, type: 3}
+  angrySprite: {fileID: 21300000, guid: 675f67100e89dcc42995b7e17a9a3e59, type: 3}
+  angrySpeakingSprite: {fileID: 21300000, guid: bd33cb11ab482f0419a29ee552e0a721, type: 3}
+  happySprite: {fileID: 21300000, guid: 49479d3e65f8d8d4088949ebea0f7138, type: 3}
+  spriteFacingLeft: 1
+  emptyBarSprite: {fileID: 21300000, guid: d5949b558e060ff4faa5ce42339b602f, type: 3}
+  filledBarSprite: {fileID: 21300000, guid: fbdc36d89d6cd064a8a897aa36b38698, type: 3}

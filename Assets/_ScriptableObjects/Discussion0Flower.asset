@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5984be9e8b454414aa6be8dea7a67458, type: 3}
+  m_Name: Discussion0Flower
+  m_EditorClassIdentifier: 
+  theme: "Decora\xE7\xE3o"
+  description: "Tentando decidir a decora\xE7\xE3o de um evento"
+  characters:
+  - {fileID: 11400000, guid: 6797bdbd2a969d4448b51ee4c6ed65c3, type: 2}
+  - {fileID: 11400000, guid: a860944c7388a364293d5466bd5c2e8a, type: 2}
+  gameTiles:
+  - {fileID: 11400000, guid: 05e723e5be645a243a31e252faef1ea3, type: 2}
+  - {fileID: 11400000, guid: 94b043d2f34dafc4d9c985d474997bc8, type: 2}
+  solvedTile: {fileID: 11400000, guid: 5b5a5bb25937cb94f8367b48e3d8c792, type: 2}
+  stepDelay: 1
+  colors:
+  - {r: 0.85490197, g: 0.39607844, b: 0.61960787, a: 1}
+  - {r: 0.36078432, g: 0.14509805, b: 0.28627452, a: 1}
+  scoreGoal: 20

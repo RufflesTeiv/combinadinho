@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5984be9e8b454414aa6be8dea7a67458, type: 3}
+  m_Name: Discussion2Daytime
+  m_EditorClassIdentifier: 
+  theme: Momento do dia
+  description: Tentando decidir o momento do dia para um evento.
+  characters:
+  - {fileID: 11400000, guid: 3d46335af9cdcee49a807053c4bbbe7b, type: 2}
+  - {fileID: 11400000, guid: a860944c7388a364293d5466bd5c2e8a, type: 2}
+  gameTiles:
+  - {fileID: 11400000, guid: 18a8a62f5edf4b54e9ef9c5996effd72, type: 2}
+  - {fileID: 11400000, guid: 1c6748afb61f4564181bf2a542745b08, type: 2}
+  solvedTile: {fileID: 11400000, guid: 57352922ec5f1fd43965f2e3083fe3f8, type: 2}
+  stepDelay: 0.733
+  colors:
+  - {r: 0.9764706, g: 0.8, b: 0.4745098, a: 1}
+  - {r: 0.73333335, g: 0.2509804, b: 0.21568628, a: 1}
+  scoreGoal: 40

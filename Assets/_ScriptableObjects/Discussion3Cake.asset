@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5984be9e8b454414aa6be8dea7a67458, type: 3}
+  m_Name: Discussion3Cake
+  m_EditorClassIdentifier: 
+  theme: Sabor de bolo
+  description: Tentando decidir o sabor de bolo
+  characters:
+  - {fileID: 11400000, guid: 6797bdbd2a969d4448b51ee4c6ed65c3, type: 2}
+  - {fileID: 11400000, guid: de6424c3b54a46e47bb6289151841e92, type: 2}
+  gameTiles:
+  - {fileID: 11400000, guid: e0d4d156d50e51142a790d01de0f6e17, type: 2}
+  - {fileID: 11400000, guid: fcdb13c81d5dcbd489783a4e4b3c06d3, type: 2}
+  solvedTile: {fileID: 11400000, guid: b39873db6cc6edc44ad55fe2d573d8d3, type: 2}
+  stepDelay: 0.6
+  colors:
+  - {r: 0.39215687, g: 0.18431373, b: 0.32156864, a: 1}
+  - {r: 0.98039216, g: 0.81960785, b: 0.52156866, a: 1}
+  scoreGoal: 50
